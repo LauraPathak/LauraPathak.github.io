@@ -2,4 +2,4 @@ Hello! This is my personal website, where I will post some info about myself, as
 
 ### Active Projects
 
-#### Project 1
+#### Project 1 https://github.com/LauraPathak/LauraPathak.github.io/blob/main/projects.md
